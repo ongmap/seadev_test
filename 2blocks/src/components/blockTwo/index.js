@@ -1,5 +1,6 @@
-import React from 'react';
+import React from 'react'
 
+// This component render Block Two page
 function BlockTwo() {
   return (
     <div className="block-two">
@@ -18,4 +19,4 @@ function BlockTwo() {
   );
 }
 
-export default BlockTwo;
+export default BlockTwo

@@ -1,7 +1,7 @@
 @import '~bootstrap/scss/bootstrap.scss';
 @import '_general.scss';
 @import '_intro.scss';
-@import '_block-one.scss';
-@import '_block-header.scss';
-@import '_block-content.scss';
-@import '_block_two.scss';
+@import './blockOne/_block-one-page.scss';
+@import './blockOne/_block-header.scss';
+@import './blockOne/_block-content.scss';
+@import './blockTwo/_block_two.scss';

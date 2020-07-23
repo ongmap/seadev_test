@@ -4,6 +4,7 @@ import React from 'react'
 import BlockHeader from './BlockHeader'
 import BlockContent from './BlockContent'
 
+// This component render all Block One page
 function BlockOne() {
   return (
     <div className='block-one'>
@@ -15,4 +16,4 @@ function BlockOne() {
   );
 }
 
-export default BlockOne;
+export default BlockOne

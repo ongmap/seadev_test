@@ -4,12 +4,11 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import '../styles/App.scss';
 
 import Intro from './Intro'
-import BlockOne from './blockOne/BlockOne'
-import BlockTwo from './blockTwo/BlockTwo'
-
+import BlockOne from './blockOne'
+import BlockTwo from './blockTwo'
+import '../styles/App.scss';
 
 function App() {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
 
-// Header of Block One
+// Header of Block One page
 function BlockHeader() {
   return (
     <div className='block-header'>
